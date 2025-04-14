@@ -2,7 +2,7 @@ Hi, i'm Bastien Le Goff.
 
 Currently a PhD student at EDYTEM - Université Savoie Mont Blanc France
 
-My main field study is 3D models using eather photogrammetry and lidar.
+My main field study is 3D models using either photogrammetry and lidar.
 I sometime use programming, mostly in python to answer specific problems in my field.
 
 <!---
